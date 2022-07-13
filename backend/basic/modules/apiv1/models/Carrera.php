@@ -3,6 +3,8 @@
 namespace app\modules\apiv1\models;
 
 class carrera extends \app\models\Carrera {
+   
+    
     public function behaviors()
     {
         $behaviors=parent::behaviors();

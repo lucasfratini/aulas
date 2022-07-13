@@ -17,6 +17,15 @@ se ejecutan las migraciones
 
 /yii.sh migrate
 
+agregar libreria vuetify 
+
+add vuetify
+
+agregar libreria axios 
+
+npm install --save axios vue-axios
+
+
 
 data/posgres/*
 .env
